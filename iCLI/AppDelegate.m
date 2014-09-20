@@ -1,9 +1,9 @@
 //
 //  AppDelegate.m
-//  iCLI
+//  iCLI - iCommand Line Interface
 //
 //  Created by Emily Jennyne Carroll Walls on 2014-04-22.
-//  Copyright (c) 2014 Emily Walls. All rights reserved.
+//  A UNIX-like "OS" for iOS
 //
 
 #import "AppDelegate.h"
